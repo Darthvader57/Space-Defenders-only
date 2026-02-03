@@ -1,0 +1,6 @@
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defender Version 1\Space Defender Version 1\obj\Debug\Space Defender Version 1.csproj.AssemblyReference.cache
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defender Version 1\Space Defender Version 1\obj\Debug\Space_Defender_Version_1.Form1.resources
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defender Version 1\Space Defender Version 1\obj\Debug\Space_Defender_Version_1.Properties.Resources.resources
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defender Version 1\Space Defender Version 1\obj\Debug\Space Defender Version 1.csproj.GenerateResource.cache
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defender Version 1\Space Defender Version 1\obj\Debug\Space Defender Version 1.csproj.CoreCompileInputs.cache
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defender Version 1\Space Defender Version 1\obj\Debug\Space_Defender_Version_1.Space_Defender_Version_1.resources

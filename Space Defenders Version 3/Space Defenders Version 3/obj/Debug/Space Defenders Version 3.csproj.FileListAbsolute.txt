@@ -1,0 +1,11 @@
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders Version 3\Space Defenders Version 3\obj\Debug\Space Defenders Version 3.csproj.AssemblyReference.cache
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders Version 3\Space Defenders Version 3\obj\Debug\Space_Defenders_Version_3.Form1.resources
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders Version 3\Space Defenders Version 3\obj\Debug\Space_Defenders_Version_3.Properties.Resources.resources
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders Version 3\Space Defenders Version 3\obj\Debug\Space Defenders Version 3.csproj.GenerateResource.cache
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders Version 3\Space Defenders Version 3\obj\Debug\Space Defenders Version 3.csproj.CoreCompileInputs.cache
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders Version 3\Space Defenders Version 3\bin\Debug\Space Defenders Version 3.exe.config
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders Version 3\Space Defenders Version 3\bin\Debug\Space Defenders Version 3.exe
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders Version 3\Space Defenders Version 3\bin\Debug\Space Defenders Version 3.pdb
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders Version 3\Space Defenders Version 3\obj\Debug\Space Defenders Version 3.exe
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders Version 3\Space Defenders Version 3\obj\Debug\Space Defenders Version 3.pdb
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders Version 3\Space Defenders Version 3\obj\Debug\Space Defenders Version 3.exe.config

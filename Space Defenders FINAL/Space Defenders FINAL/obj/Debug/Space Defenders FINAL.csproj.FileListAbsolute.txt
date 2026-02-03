@@ -1,0 +1,11 @@
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders FINAL\Space Defenders FINAL\bin\Debug\Space Defenders FINAL.exe.config
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders FINAL\Space Defenders FINAL\bin\Debug\Space Defenders FINAL.exe
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders FINAL\Space Defenders FINAL\bin\Debug\Space Defenders FINAL.pdb
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders FINAL\Space Defenders FINAL\obj\Debug\Space Defenders FINAL.csproj.AssemblyReference.cache
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders FINAL\Space Defenders FINAL\obj\Debug\Space_Defenders_FINAL.Form1.resources
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders FINAL\Space Defenders FINAL\obj\Debug\Space_Defenders_FINAL.Properties.Resources.resources
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders FINAL\Space Defenders FINAL\obj\Debug\Space Defenders FINAL.csproj.GenerateResource.cache
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders FINAL\Space Defenders FINAL\obj\Debug\Space Defenders FINAL.csproj.CoreCompileInputs.cache
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders FINAL\Space Defenders FINAL\obj\Debug\Space Defenders FINAL.exe
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders FINAL\Space Defenders FINAL\obj\Debug\Space Defenders FINAL.pdb
+C:\Users\bbelabadi\source\repos\Pong Game\Space Defenders FINAL\Space Defenders FINAL\obj\Debug\Space Defenders FINAL.exe.config

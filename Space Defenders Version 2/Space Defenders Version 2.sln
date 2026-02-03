@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Defenders Version 2", "Space Defenders Version 2\Space Defenders Version 2.csproj", "{5829EBC3-1D89-4A65-808A-49584167F15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5829EBC3-1D89-4A65-808A-49584167F15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5829EBC3-1D89-4A65-808A-49584167F15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5829EBC3-1D89-4A65-808A-49584167F15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5829EBC3-1D89-4A65-808A-49584167F15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D1AFAC3-7D72-45F9-A375-B6352C08856D}
+	EndGlobalSection
+EndGlobal
